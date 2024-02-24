@@ -1,0 +1,23 @@
+export const iconNames = [
+  "arrow-left",
+  "arrow-right",
+  "bag",
+  "calendar",
+  "check",
+  "chevron-down",
+  "chevron-up",
+  "credit-card",
+  "info",
+  "map-pin",
+  "minus",
+  "package",
+  "plus",
+  "receipt",
+  "save",
+  "search",
+  "trash",
+  "truck",
+  "undo",
+  "user",
+  "x"
+] as const;
